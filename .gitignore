@@ -1,0 +1,7 @@
+.classpath
+
+.vscode/
+target/
+*.log
+*.db*
+
